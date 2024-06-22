@@ -103,4 +103,5 @@ namespace MbitMore {
     console.log("Microbit-More send a text: " + label + " = " + textData);
   }
 
+  // testing
 } // namespace MbitMore
